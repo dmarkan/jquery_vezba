@@ -1,0 +1,14 @@
+.slucajan {
+    font-weight: bold;
+}
+
+p, h3 {
+    display: inline;
+    cursor: default;
+}
+
+.broj {
+    color: red;
+    display: inline;
+    font-size: 3rem;
+}
